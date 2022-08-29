@@ -1,4 +1,4 @@
-// Solutions for the problem 1007 from breecrowd
+// Solutions for the problem 1008 from breecrowd
 package main
 
 import (
