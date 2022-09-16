@@ -9,7 +9,7 @@ func main() {
 		fmt.Printf("%d) %d\n", i+1, numero)
 
 	}
-	for _, num := range numeros {
+	for _, num := range numeros { // Para ignorar o indice você pode colocar um "_"
 		fmt.Println(num)
 	}
 }
